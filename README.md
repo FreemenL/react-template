@@ -1,6 +1,6 @@
-# react-template
+#react轮播图+滚动新闻列表组件+倒计时组件 react-template
 es6+react+react-route+reflux
-react轮播图+滚动新闻列表组件+倒计时组件
+
 
 
 
